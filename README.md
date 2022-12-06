@@ -1,3 +1,5 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=belmarca&show_icons=true&include_all_commits=true&hide_border=true&count_private=false&theme=transparent" />
+
 ### Publications
 
 - [Marc-André Bélanger and Marc Feeley, **A Foreign Function Interface between Gambit Scheme and CPython**. In _Scheme Workshop (SW'22)_, September 2022. (pre-print)](https://andykeep.com/SchemeWorkshop2022/scheme2022-final22.pdf)
