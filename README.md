@@ -8,7 +8,7 @@ C (roughly in that order).
 My experience spans the stack from DevOps and sysadmin work (cloud and on-prem)
 to full-stack web apps to networking, medical imaging, web scraping, smart
 contracts, API reverse-engineering, compilers and interpreters, FFIs,
-computational chemistry, LLMs...
+computational chemistry, LLMs, microcontroller firmware, etc.
 
 Most of my work is private and not available on this repo.
 
