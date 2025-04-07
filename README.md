@@ -1,14 +1,13 @@
 ### 🙋 Short bio
 
-Immensely curious computational chemist turned software developer. I have worked
-on various things but I am currently focusing on finishing my Masters' in
+Immensely curious computational chemist turned software developer. I am currently finishing my Masters' in
 dynamic languages interoperation. I mostly write Python, JavaScript, Scheme and
 C (roughly in that order).
 
-My experience spans the stack from DevOps and sysadmin work (cloud and on-prem)
+My academic and work experience spans the stack from DevOps and sysadmin work (cloud and on-prem)
 to full-stack web apps to networking, medical imaging, web scraping, smart
 contracts, API reverse-engineering, compilers and interpreters, FFIs,
-computational chemistry, LLMs, microcontroller firmware, etc.
+computational chemistry, LLMs, microcontroller firmware, general/executive consulting, technical expert in litigation etc.
 
 Most of my work is private and not available on this repo.
 
