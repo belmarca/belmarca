@@ -62,6 +62,12 @@ marc-andre.belanger [-at-] umontreal.ca.
   cloud and on-premise deployments. Acted as a consultant for stakeholders and
   decision-makers for procurement, strategy and litigation.
 
+  I have built:
+
+  - An issue tracking and ticketing system for internal use
+  - A DICOM image sharing portal for practicioners and patients
+  - A web-based appointment scheduler for patients
+
 - **2016** | Technical Support Specialist / Software Developer – La Presse
   
   Built Apple device monitoring and reporting system using Apple Profile
