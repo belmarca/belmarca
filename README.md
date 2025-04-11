@@ -67,7 +67,7 @@ marc-andre.belanger [-at-] umontreal.ca.
   - An issue tracking and ticketing system for internal use
   - A DICOM image sharing portal for practicioners and patients
   - A web-based appointment scheduler for patients handling over 20 000 appointments a year
-  - An SMS-based waiting room management system to contact patients just-in-time for their exam handling hundreds of patients daily
+  - An SMS-based waiting room management system to contact patients just-in-time for their exam handling hundreds of patients daily for over 100 000 interactions per year
 
 - **2016** | Technical Support Specialist / Software Developer – La Presse
   
