@@ -1,5 +1,7 @@
 ### 🙋 Short bio
 
+**I am currently looking for work!**
+
 Immensely curious computational chemist turned software developer. I am currently finishing my Masters' in
 dynamic languages interoperation. I mostly write Python, JavaScript, Scheme and
 C (roughly in that order).
@@ -13,8 +15,6 @@ technical expert in litigation etc.
 Most of my work is private and not available on this repo.
 
 Happy member of [the Mighty Gerbils](https://github.com/mighty-gerbils) 🐹
-
-**I am currently looking for work!**
 
 ---
 
