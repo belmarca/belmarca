@@ -7,7 +7,8 @@ C (roughly in that order).
 My academic and work experience spans the stack from DevOps and sysadmin work (cloud and on-prem)
 to full-stack web apps to networking, medical imaging, web scraping, smart
 contracts, API reverse-engineering, compilers and interpreters, FFIs,
-computational chemistry, LLMs, microcontroller firmware, general/executive consulting, technical expert in litigation etc.
+computational chemistry, LLMs, microcontroller firmware, general/executive consulting,
+technical expert in litigation etc.
 
 Most of my work is private and not available on this repo.
 
@@ -125,8 +126,8 @@ In no particular order or categorization.
 - **[Gambit Scheme](https://github.com/gambit/gambit)**
   
   Extended Gambit’s infix reader for JavaScript and Python syntax. Built an
-  interface between Gambit Scheme and CPython. Built an interface between Gambit
-  Scheme and JavaScript.
+  interface between Gambit Scheme and CPython using the CPython C API. Built
+  an interface between Gambit Scheme and JavaScript which you can try [here](https://try.gambitscheme.org) (write `\alert("Hello!")` at the REPL).
 
 - **jsrna** – JavaScript RNA Base Pair Annotation
   
