@@ -11,6 +11,8 @@ computational chemistry, LLMs, microcontroller firmware, general/executive consu
 
 Most of my work is private and not available on this repo.
 
+Happy member of [the Mighty Gerbils](https://github.com/mighty-gerbils) 🐹
+
 **I am currently looking for work!**
 
 ---
@@ -40,7 +42,7 @@ marc-andre.belanger [-at-] umontreal.ca.
 - **2022–2025** | Freelancer
   
   Worked on various contracts for clients involving web application development,
-  web scraping, API reverse-engineering, data collection, analysis, and
+  web scraping, consulting, API reverse-engineering, data collection, analysis, and
   sanitization for SMBs.
 
 - **2024** | LLM Optimization Lead – Early Stage Startup
@@ -81,7 +83,21 @@ marc-andre.belanger [-at-] umontreal.ca.
 
 ### ⚙️ A few projects
 
-No particular order or categorization.
+In no particular order or categorization.
+
+- **[codeBoot](https://codeboot.org)** - Browser-based IDE for teaching programming
+
+  One of the main contributors to the project. I have worked on every part of the
+  project, from the front-end to the compiler to the backend services (cloud and on-prem).
+  I have used codeBoot to teach introductory programming courses at Université de Montréal.
+
+- **BLINX** - ESP32-based board for teaching programming
+
+  I am a co-founder of the company that markets and sells the BLINX hardware
+  and software. BLINX is a small board used for teaching programming. It can be
+  plugged into a USB port and programmed from the codeBoot environment. It accepts
+  a multitude of Grove sensors. I wrote a high-performance firmware proof-of-concept
+  using ESP-IDF as part of our R&D.
 
 - **py2js** – Python to JavaScript Compiler
   
@@ -90,24 +106,23 @@ No particular order or categorization.
 
 - **pyinterp** – CPS-Style Python Interpreter in Python
   
-  Implemented the FFI layer and some builtins, critical to codeBoot’s backend.
+  Implemented the FFI layer as well as Python builtins, critical to codeBoot’s backend.
   The FFI integrates ideas from my research into a production system.
 
 - **codeBoot on Microcontrollers**
   
-  Implemented WebSerial communication between codeBoot and MicroPython. Migrated
-  environments to Docker for higher reliability and reproducibility. Handled
-  firmware build automation and WebSocket bug fixes. Developed a
-  high-performance firmware proof-of-concept for ESP32C3 using ESP-IDF.
+  Implemented WebSerial communication between codeBoot and MicroPython. Migrated legacy
+  development environments to Docker for higher reliability and reproducibility. Handled
+  firmware build automation and WebSocket bug fixes.
 
-- **Ribbit Scheme**
+- **[Ribbit Scheme](https://github.com/udem-dlteam/ribbit)**
 
   Implemented the Ribbit VM in Haskell. Built classical source-to-source
   transformations (e.g., closure conversion) into the compiler. Bootstrapped an
   x86-64 backend. Worked on porting Racket’s “sets-of-scopes” expander to
   Ribbit.
 
-- **Gambit Scheme**
+- **[Gambit Scheme](https://github.com/gambit/gambit)**
   
   Extended Gambit’s infix reader for JavaScript and Python syntax. Built an
   interface between Gambit Scheme and CPython. Built an interface between Gambit
