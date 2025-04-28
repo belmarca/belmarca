@@ -51,7 +51,7 @@ marc-andre.belanger [-at-] umontreal.ca.
   Worked as a contractor on an LLM optimization and evaluation pipeline.
   Full-stack involvement from cutting-edge prompt engineering to computation
   graph optimizations to JITing prompt optimizers using meta-prompting
-  techniques.
+  techniques with DSPy and TextGrad.
 
 - **2023–2024** | Lecturer – Université de Montréal
   
