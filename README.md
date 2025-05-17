@@ -40,7 +40,7 @@ marc-andre.belanger [-at-] umontreal.ca.
 
 ### 🛠️ Experience
 
-- **2022–2025** | Freelancer
+- **2022–2025** | Software consultant
   
   Worked on various contracts for clients involving web application development,
   web scraping, consulting, API reverse-engineering, data collection, analysis, and
@@ -48,16 +48,16 @@ marc-andre.belanger [-at-] umontreal.ca.
 
 - **2024** | LLM Optimization Lead – Early Stage Startup
   
-  Worked as a contractor on an LLM optimization and evaluation pipeline.
-  Full-stack involvement from cutting-edge prompt engineering to computation
-  graph optimizations to JITing prompt optimizers using meta-prompting
-  techniques with DSPy and TextGrad.
+  Worked as an R&D contractor for a generative AI PaaS on LLM-based workflow
+  optimization and evaluation. Full-stack involvement from cutting-edge prompt
+  engineering to computation graph optimizations to JITing prompt optimizers using
+  meta-prompting agentic techniques with DSPy and TextGrad.
 
 - **2023–2024** | Lecturer – Université de Montréal
   
-  Taught two introductory programming courses to hundreds of students. The
-  courses used Python and the codeBoot environment, which I help build and
-  maintain.
+  I taught two introductory programming courses to hundreds of students. The
+  course uses Python and the codeBoot environment, which I help build and
+  maintain. I managed around 15 TAs for grading, assignment and lab hours. My teaching was highly rated by students.
 
 - **2014–2023** | Software Developer and Consultant – Imagerie des Pionniers
   
@@ -65,12 +65,12 @@ marc-andre.belanger [-at-] umontreal.ca.
   cloud and on-premise deployments. Acted as a consultant for stakeholders and
   decision-makers for procurement, strategy and litigation.
 
-  I have built:
+  I have built and maintained:
 
+  - A web-based appointment scheduler for patients handling over 20 000 appointments a year
+  - An SMS-based waiting room management system to contact patients just-in-time for their exam handling hundreds of patients daily for over 100 000 business interactions per year
   - An issue tracking and ticketing system for internal use
   - A DICOM image sharing portal for practicioners and patients
-  - A web-based appointment scheduler for patients handling over 20 000 appointments a year
-  - An SMS-based waiting room management system to contact patients just-in-time for their exam handling hundreds of patients daily for over 100 000 interactions per year
 
 - **2016** | Technical Support Specialist / Software Developer – La Presse
   
@@ -80,7 +80,11 @@ marc-andre.belanger [-at-] umontreal.ca.
 
 - **2013–2015** | Teaching Assistant – Université de Montréal
   
-  Assisted in teaching multiple undergraduate chemistry courses.
+  I was a teaching assitant for multiple undergraduate chemistry courses (general
+  chemistry, physical chemistry, inorganic chemistry). My work was highly rated by
+  students and innovative for the time, providing extensive course notes,
+  interactive presentations using electronics structure calculations and other
+  software for the benefit of the students.
 
 ### ⚙️ A few projects
 
@@ -91,6 +95,14 @@ In no particular order or categorization.
   One of the main contributors to the project. I have worked on every part of the
   project, from the front-end to the compiler to the backend services (cloud and on-prem).
   I have used codeBoot to teach introductory programming courses at Université de Montréal.
+
+  See **pyinterp** below for details on the codeBoot Python <-> JavaScript FFI.
+  
+- **jsrna** – JavaScript RNA Base Pair Annotation
+  
+  Web-based RNA base-pair annotator/viewer, using a ResNet-based transfer
+  learning model. I reformulated base-pair annotation as a classification task (similar to MNIST) using a canonicalized projection method to create an *alphabet*.
+  Novel, highly efficient and accurate method yet unpublished.
 
 - **BLINX** - ESP32-based board for teaching programming
 
@@ -108,13 +120,18 @@ In no particular order or categorization.
 - **pyinterp** – CPS-Style Python Interpreter in Python
   
   Implemented the FFI layer as well as Python builtins, critical to codeBoot’s backend.
-  The FFI integrates ideas from my research into a production system.
+  The FFI integrates ideas from my research into a production system. The FFI allows
+  users to seamlessly import and use JavaScript libraries from Python code. This requires
+  careful grammar, tokenizer and parser extensions along with a well designed runtime
+  to preserve the illusion of writing pure Python code.
+
+  Try the FFI at https://codeboot.org by executing `\alert("Hello!")` at the REPL.
 
 - **codeBoot on Microcontrollers**
   
   Implemented WebSerial communication between codeBoot and MicroPython. Migrated legacy
   development environments to Docker for higher reliability and reproducibility. Handled
-  firmware build automation and WebSocket bug fixes.
+  firmware build automation. Deep Wireshark sessions to debug a microcontroller WebSocket implementation.
 
 - **[Ribbit Scheme](https://github.com/udem-dlteam/ribbit)**
 
@@ -128,12 +145,6 @@ In no particular order or categorization.
   Extended Gambit’s infix reader for JavaScript and Python syntax. Built an
   interface between Gambit Scheme and CPython using the CPython C API. Built
   an interface between Gambit Scheme and JavaScript which you can try [here](https://try.gambitscheme.org) (write `\alert("Hello!")` at the REPL).
-
-- **jsrna** – JavaScript RNA Base Pair Annotation
-  
-  Web-based RNA base-pair annotator/viewer, using a ResNet-based transfer
-  learning model. Reformulated as a classification task (similar to MNIST).
-  Novel, highly efficient and accurate method yet unpublished.
 
 - **2023 DIRO Hackathon**
   
@@ -150,7 +161,7 @@ In no particular order or categorization.
 
   Back when these things were rare, I built an Ethereum transaction graph
   explorer using Neo4j. I used this to find evidence of wrongdoing in some
-  personal investments. The chain doesn't lie.
+  personal investments.
   
 - **Making EVM smart contracts lie**
 
