@@ -98,9 +98,9 @@ In no particular order or categorization.
 
   See **pyinterp** below for details on the codeBoot Python <-> JavaScript FFI.
   
-- **jsrna** – JavaScript RNA Base Pair Annotation
+- **[jsrna](https://github.com/belmarca/jsrna)** – JavaScript RNA Base Pair Annotation
   
-  Web-based RNA base-pair annotator/viewer, using a ResNet-based transfer
+  Web-based RNA base-pair annotator/viewer written in JavaScript. Also created a novel annotation method using a ResNet-based transfer
   learning model. I reformulated base-pair annotation as a classification task (similar to MNIST) using a canonicalized projection method to create an *alphabet*.
   Novel, highly efficient and accurate method yet unpublished.
 
