@@ -1,23 +1,3 @@
-### 🙋 Short bio
-
-**I am currently looking for work!**
-
-Immensely curious computational chemist turned software developer. I am currently finishing my Masters' in
-dynamic languages interoperation. I mostly write Python, JavaScript, Scheme and
-C (roughly in that order).
-
-My academic and work experience spans the stack from DevOps and sysadmin work (cloud and on-prem)
-to full-stack web apps to networking, medical imaging, web scraping, smart
-contracts, API reverse-engineering, compilers and interpreters, FFIs,
-computational chemistry, LLMs, microcontroller firmware, general/executive consulting,
-technical expert in litigation etc.
-
-Most of my work is private and not available on this repo.
-
-Happy member of [the Mighty Gerbils](https://github.com/mighty-gerbils) 🐹
-
----
-
 ### 📇 Contact
 
 Je maîtrise le français et l'anglais. N'hésitez pas à entrer en contact dans
