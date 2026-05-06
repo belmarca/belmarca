@@ -21,6 +21,7 @@ marc-andre.belanger [-at-] umontreal.ca.
 ### 🛠️ Experience
 
 - **2025-2026** | CTO - BIASafe AI
+  
  Directed the end-to-end technical strategy, architecture, and engineering
  execution for an AI-focused FinTech startup. I led the organization from
  **zero-to-one** under the business and technical constraints and objectives set by
