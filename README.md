@@ -22,13 +22,13 @@ marc-andre.belanger [-at-] umontreal.ca.
 
 - **2025-2026** | CTO - BIASafe AI
   
- Directed the end-to-end technical strategy, architecture, and engineering
- execution for an AI-focused FinTech startup. I led the organization from
- **zero-to-one** under the business and technical constraints and objectives set by
- management. I established SDLC best practices for a team of 6 developers, owned
- the security posture, fully leveraged modern **agentic coding** practices, built all
- of the data pipelines, handled third-party contract work, etc. I designed,
- implemented and maintained:
+   Directed the end-to-end technical strategy, architecture, and engineering
+   execution for an AI-focused FinTech startup. I led the organization from
+   **zero-to-one** under the business and technical constraints and objectives set by
+   management. I established SDLC best practices for a team of 6 developers, owned
+   the security posture, fully leveraged modern **agentic coding** practices, built all
+   of the data pipelines, handled third-party contract work, etc. I designed,
+   implemented and maintained:
 
   - A robust **distributed worker** execution model designed to provide exactly-once
     semantics through a hybrid message queue and durable queue architecture,
