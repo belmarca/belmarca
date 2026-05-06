@@ -20,13 +20,63 @@ marc-andre.belanger [-at-] umontreal.ca.
 
 ### 🛠️ Experience
 
+- **2025-2026** | CTO - BIASafe AI
+ Directed the end-to-end technical strategy, architecture, and engineering
+ execution for an AI-focused FinTech startup. I led the organization from
+ **zero-to-one** under the business and technical constraints and objectives set by
+ management. I established SDLC best practices for a team of 6 developers, owned
+ the security posture, fully leveraged modern **agentic coding** practices, built all
+ of the data pipelines, handled third-party contract work, etc. I designed,
+ implemented and maintained:
+
+  - A robust **distributed worker** execution model designed to provide exactly-once
+    semantics through a hybrid message queue and durable queue architecture,
+    best-effort optimistic messaging with retries and polling (**Docker Swarm, Celery,
+    Redis, RabbitMQ, PostgreSQL**)
+  - The infrastructure and codebase so that we could reach **SOC2 compliance**
+  - **Resilient ETL pipelines** with clearly defined semantics and manual overrides
+    along with full operational observability through dashboards
+  - A **monorepo** structure that enabled quick onboarding and easy LLM integration
+    for accelerating development
+  - An easy to use development environment leveraging **devcontainers** and
+    multi-layered docker images for quick and easy onboarding and experimentation
+  - **Isomorphic development and cloud environments** where developers could run the
+    whole platform on their machines as in staging and prod
+  - Fully automated **CI/CD pipelines** with proper testing hierarchy, merge queue and
+    early termination for faster turnaround
+  - Strict stateful vs stateless separation at the application level to leverage
+    cloud vendor data persistence for reliability while **avoiding vendor lock-in**
+  - **Internal libraries** as building blocks to enforce "one way to do things" in the
+    whole codebase, facilitate understanding, simplify adding new features,
+    enforcing the execution model semantics and other requirements at the library
+    level
+  - Enforced **Pydantic** typing both for everything from configuration to function
+    signatures
+  - Compiling Pydantic types to TypeScript to **eliminate drift** between the back-end
+    and the front-end
+  - **Traceable provenance** and genealogy for every single data artifact that went
+    through the system, from SFTP files to API requests with replayability for
+    auditing (PostgreSQL and SQLModel)
+  - **Point-in-time and provenance guarantees** at the database schema level to enable
+    reproducible backtests and auditing (**ClickHouse** and PostgreSQL)
+  - Strict environment separation and secret handling between staging and
+    production cloud developments on **GCP**
+  - Strictly IaC-only versioned infrastructure with **Terraform**
+  - Monitoring built-in at the library and infrastructure level with **Grafana** and
+    **Prometheus**
+  - Optimized backtesting code reducing resource usage and time by between **30% to
+    300%**.
+  - Leveraged Cloud Run for **elastic computing** availability when launching backtests
+  - Managed PhD interns working on chatbot, **RAG** and completion pipelines
+
+
 - **2022–2025** | Software consultant
   
   Worked on various contracts for clients involving web application development,
   web scraping, consulting, API reverse-engineering, data collection, analysis, and
   sanitization for SMBs.
 
-- **2024** | LLM Optimization Lead – Early Stage Startup
+- **2024** | LLM Optimization Lead – DeepStructure
   
   Worked as an R&D contractor for a generative AI PaaS on LLM-based workflow
   optimization and evaluation. Full-stack involvement from cutting-edge prompt
